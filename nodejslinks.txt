@@ -1,0 +1,3 @@
+https://vmokshagroup.com/blog/building-restful-apis-using-node-js-express-js-and-ms-sql-server/
+https://www.codeproject.com/Articles/1239390/Creating-Simple-API-in-Node-js
+https://medium.com/voobans-tech-stories/how-to-quickly-create-a-simple-rest-api-for-sql-server-database-7ddb595f751a

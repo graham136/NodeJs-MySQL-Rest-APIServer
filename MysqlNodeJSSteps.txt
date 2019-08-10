@@ -1,0 +1,8 @@
+1. npm install mysql --save
+2. npm install express --save
+2. install xampp on desktop
+3. run xampp
+4. create database
+5. create table. make sure id is pk and autoincrement
+5. populate database
+6. make a user for the mysql database
